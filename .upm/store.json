@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"ec833d23c574a3d439cefa0f63760e60","lockfileHash":"486024b3edb32a8ccad482ba04e0f0ab","guessedImports":["mysql","dotenv","express","@replit/repl-auth","body-parser","cors","rethinkdb"],"guessedImportsHash":"bb9604f095c30252cb7853ea38253c15"}}}
